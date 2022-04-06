@@ -1,0 +1,8 @@
+.work-links {
+  color: black;
+  text-decoration: underline;
+}
+
+.work-links:hover {
+  color: darkgrey;
+}
