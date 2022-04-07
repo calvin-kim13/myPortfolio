@@ -27,11 +27,11 @@ Once the application is installed, the user can use the portfolio as a template 
 
 ## LIVE
 
-| DEPLOYMENT     | URL                                                                 | STATUS    |
-| -------------- | ------------------------------------------------------------------- | --------- |
-| Resume PDF     | [Calvin-Kim-Resume](./resume/Calvin-Kim-Resume.pdf)                 | ACTIVE 🟢 |
-| Repository     | [GitHub Repo](https://github.com/calvin-kim13/myPortfolio)          | ACTIVE 🟢 |
-| Published Page | [Calvin Portfolio 2.0](https://calvin-kim13.github.io/myPortfolio/) | ACTIVE 🟢 |
+| DEPLOYMENT     | URL                                                         | STATUS    |
+| -------------- | ----------------------------------------------------------- | --------- |
+| Resume PDF     | [Calvin-Kim-Resume](./resume/Calvin-Kim-Resume.pdf)         | ACTIVE 🟢 |
+| Repository     | [GitHub Repo](https://github.com/calvin-kim13/myPortfolio)  | ACTIVE 🟢 |
+| Published Page | [My Portfolio](https://calvin-kim13.github.io/myPortfolio/) | ACTIVE 🟢 |
 
 ## Credits
 
