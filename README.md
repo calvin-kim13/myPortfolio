@@ -35,7 +35,7 @@ Once the application is installed, the user can use the portfolio as a template 
 
 ## Credits
 
-N/A
+Templating Engine
 
 ## License
 
